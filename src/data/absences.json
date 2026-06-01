@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-05-31T11:06:30.153Z",
+    "current_updated_at": "2026-06-01T15:31:47.077Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -87,22 +87,7 @@
     }
   },
   "current": {
-    "ALG": [
-      {
-        "player": "Luca Zidane",
-        "position": "GK",
-        "minutes_qual": 0,
-        "market_value_mil": 1,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Anthony Mandréa",
-        "position": "GK",
-        "minutes_qual": 0,
-        "market_value_mil": 0.35,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "ALG": [],
     "ARG": [
       {
         "player": "Cristian Romero",
@@ -133,22 +118,7 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "AUS": [
-      {
-        "player": "Aiden O'Neill",
-        "position": "DM",
-        "minutes_qual": 0,
-        "market_value_mil": 3,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Patrick Yazbek",
-        "position": "CM",
-        "minutes_qual": 0,
-        "market_value_mil": 3.5,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "AUS": [],
     "AUT": [
       {
         "player": "Patrick Wimmer",
