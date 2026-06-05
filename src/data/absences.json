@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-04T12:05:54.611Z",
+    "current_updated_at": "2026-06-05T12:15:50.044Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -200,15 +200,7 @@
       }
     ],
     "CUW": [],
-    "CZE": [
-      {
-        "player": "David Zima",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 7,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "CZE": [],
     "ECU": [],
     "EGY": [],
     "ENG": [],
@@ -234,15 +226,7 @@
       }
     ],
     "IRN": [],
-    "IRQ": [
-      {
-        "player": "Youssef Amyn",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 0.55,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "IRQ": [],
     "JOR": [],
     "JPN": [
       {
@@ -253,30 +237,46 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "KOR": [
+    "KOR": [],
+    "KSA": [
       {
-        "player": "In-beom Hwang",
-        "position": "DM",
+        "player": "Nawaf Al-Aqidi",
+        "position": "GK",
         "minutes_qual": 0,
-        "market_value_mil": 7,
+        "market_value_mil": 0.65,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "KSA": [],
     "MAR": [
       {
         "player": "Zakaria El Ouahdi",
         "position": "FB",
         "minutes_qual": 0,
-        "market_value_mil": 15,
+        "market_value_mil": 17,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
     "MEX": [],
-    "NED": [],
+    "NED": [
+      {
+        "player": "Jurriën Timber",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 70,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "NOR": [],
     "NZL": [],
-    "PAN": [],
+    "PAN": [
+      {
+        "player": "Luis Mejía",
+        "position": "GK",
+        "minutes_qual": 0,
+        "market_value_mil": 0.15,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "PAR": [
       {
         "player": "Fabián Balbuena",
@@ -302,7 +302,7 @@
         "player": "Kalidou Koulibaly",
         "position": "CB",
         "minutes_qual": 0,
-        "market_value_mil": 5,
+        "market_value_mil": 4.5,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
