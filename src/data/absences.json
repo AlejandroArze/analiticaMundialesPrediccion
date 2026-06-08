@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-07T11:15:29.492Z",
+    "current_updated_at": "2026-06-08T13:14:52.769Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -202,7 +202,29 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "MAR": [],
+    "MAR": [
+      {
+        "player": "Anass Salah-Eddine",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 12,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Noussair Mazraoui",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 18,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Abde Ezzalzouli",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 40,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "MEX": [],
     "NED": [
       {
@@ -268,32 +290,9 @@
       }
     ],
     "SUI": [],
-    "SWE": [
-      {
-        "player": "Gabriel Gudmundsson",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 20,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "SWE": [],
     "TUN": [],
-    "TUR": [
-      {
-        "player": "Ferdi Kadıoğlu",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 35,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Kenan Yıldız",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 75,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "TUR": [],
     "URU": [
       {
         "player": "Giorgian de Arrascaeta",
