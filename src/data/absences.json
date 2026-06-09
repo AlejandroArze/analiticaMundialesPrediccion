@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-08T13:14:52.769Z",
+    "current_updated_at": "2026-06-09T12:11:38.752Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -159,15 +159,7 @@
       }
     ],
     "COD": [],
-    "COL": [
-      {
-        "player": "Deiver Machado",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 1.8,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "COL": [],
     "CPV": [],
     "CRO": [],
     "CUW": [],
@@ -228,10 +220,10 @@
     "MEX": [],
     "NED": [
       {
-        "player": "Jurriën Timber",
-        "position": "FB",
+        "player": "Bart Verbruggen",
+        "position": "GK",
         "minutes_qual": 0,
-        "market_value_mil": 70,
+        "market_value_mil": 40,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
