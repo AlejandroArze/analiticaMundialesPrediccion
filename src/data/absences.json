@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-09T12:11:38.752Z",
+    "current_updated_at": "2026-06-10T12:29:59.249Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -89,13 +89,6 @@
   "current": {
     "ALG": [],
     "ARG": [
-      {
-        "player": "Nico Paz",
-        "position": "AM",
-        "minutes_qual": 0,
-        "market_value_mil": 80,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
       {
         "player": "Lionel Messi",
         "position": "WG",
@@ -284,7 +277,15 @@
     "SUI": [],
     "SWE": [],
     "TUN": [],
-    "TUR": [],
+    "TUR": [
+      {
+        "player": "Kenan Yıldız",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 75,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "URU": [
       {
         "player": "Giorgian de Arrascaeta",
