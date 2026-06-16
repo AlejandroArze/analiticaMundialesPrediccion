@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-15T15:23:22.680Z",
+    "current_updated_at": "2026-06-16T14:18:18.565Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -110,7 +110,15 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "CAN": [],
+    "CAN": [
+      {
+        "player": "Sam Adekugbe",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 1,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "CIV": [
       {
         "player": "Evan Ndicka",
@@ -134,36 +142,7 @@
     "GER": [],
     "GHA": [],
     "HAI": [],
-    "IRN": [
-      {
-        "player": "Majid Hosseini",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 1.4,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Roozbeh Cheshmi",
-        "position": "DM",
-        "minutes_qual": 0,
-        "market_value_mil": 0.65,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Allahyar Sayyadmanesh",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 4,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Ali Gholizadeh",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 1.5,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "IRN": [],
     "IRQ": [],
     "JOR": [],
     "JPN": [],
@@ -178,18 +157,32 @@
     ],
     "KSA": [],
     "MAR": [],
-    "MEX": [],
-    "NED": [],
-    "NOR": [],
-    "NZL": [
+    "MEX": [
       {
-        "player": "Oliver Sail",
+        "player": "Luis Malagón",
         "position": "GK",
         "minutes_qual": 0,
-        "market_value_mil": 0.5,
+        "market_value_mil": 7,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Rodrigo Huescas",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 5,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Marcel Ruiz",
+        "position": "CM",
+        "minutes_qual": 0,
+        "market_value_mil": 6.5,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
+    "NED": [],
+    "NOR": [],
+    "NZL": [],
     "PAN": [
       {
         "player": "Luis Mejía",
@@ -240,6 +233,13 @@
     "TUN": [],
     "TUR": [],
     "URU": [
+      {
+        "player": "Ronald Araujo",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 55,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
       {
         "player": "Giorgian de Arrascaeta",
         "position": "AM",
