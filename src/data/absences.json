@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-24T11:52:15.981Z",
+    "current_updated_at": "2026-06-25T11:46:47.517Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -161,6 +161,13 @@
         "minutes_qual": 0,
         "market_value_mil": 55,
         "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Nathaniel Brown",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 40,
+        "reason": "Injured (flagged by transfermarkt)"
       }
     ],
     "GHA": [],
@@ -205,24 +212,17 @@
     "POR": [],
     "QAT": [],
     "RSA": [],
-    "SCO": [
+    "SCO": [],
+    "SEN": [],
+    "SUI": [
       {
-        "player": "Billy Gilmour",
-        "position": "DM",
+        "player": "Miro Muheim",
+        "position": "FB",
         "minutes_qual": 0,
-        "market_value_mil": 16,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Josh Mulligan",
-        "position": "CM",
-        "minutes_qual": 0,
-        "market_value_mil": 0.4,
+        "market_value_mil": 5,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "SEN": [],
-    "SUI": [],
     "SWE": [],
     "TUN": [],
     "TUR": [],
@@ -251,6 +251,28 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "UZB": []
+    "UZB": [
+      {
+        "player": "Khusniddin Alikulov",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 1.7,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Ibrokhimkhalil Yuldoshev",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 0.9,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Jaloliddin Masharipov",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 1.8,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ]
   }
 }
